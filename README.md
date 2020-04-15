@@ -15,3 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # BLoC-RXDart-flutter
+Exemplo de como funciona RXDart e o bloc_pattern para nos auxiliar na implementação do BLoC.
+
+O que é BLoC?
+BLoC é a abreviação de Componente de Regras/Lógica de Negócio(Business Logic Component).
+
+Para mais detalhes segue no link: https://medium.com/flutterando/bloc-entendendo-de-uma-vez-por-todas-f16f234b262a
