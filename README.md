@@ -1,4 +1,6 @@
-# flutteryoutube
+# Reprodutor de videos usando a API do YouTube em Flutter
+
+Acesse https://console.cloud.google.com/ para mais informações.
 
 A new Flutter application.
 
